@@ -9,6 +9,7 @@
 
 ### 创建Servless服务
 1. 申请相应的cube，填入以下信息
+CPU 选择0.5 core/内存选择2G 
 在镜象里选择 Cube-lab cloudgame-dem
 ![创建Cube](images/quickstart_create_cube.png)
 高级设置里传入相应的环境变量
@@ -16,16 +17,15 @@
 - ARM_ACCESS_KEY
 - X86_TENANT_SECRET
 - X86_TENANT_KEY
-变量的值
-![创建Cube](images/quickstart_cube_advanced.png)	
-根据自己的需要来勾选外网弹性IP，如果勾选，带宽可以选择最小的1M。
-1. 防火墙选择为您刚才创建的放通8080端口的防火墙
-1. 静等几秒之后，容器实例的状态变成了running状态，然后就可以通过cube 对应的 EIP来使用云游戏演示程序了。
+- 变量的值
+![cube高级设置](images/quickstart_cube_advanced.png)	
+根据自己的需要来勾选外网弹性IP。 用户在使用云游戏时，主要的资源消耗在云游戏实例中，因此这里并不需要很高的带宽。所以如果勾选，带宽可以选择最小的1M。
+2. 防火墙选择为您刚才创建的放通8080端口的防火墙
+3. 静等几秒之后，容器实例的状态变成了running状态，然后就可以通过cube 对应的 EIP来使用云游戏演示程序了。
 ![Cube创建成功](images/quickstart_cube_ready.png)
 
 ### 通过WEB访问DEMO页面
 - ARM云游戏使用方式为： http://yourip:8080/arm?game=com.xxx.xxx
 - X86云游戏使用方式为: http://yourip:8080/x86?gameId=12345678 
 ![演示页面](images/quickstart_use_demo.png)
-如果你的设置全部正确，您就可以在浏览器上看到下面的界面，可以享受一下即点即玩的云游戏服务了。接下来要做的，就是将SDK集成到您自己的应用中去，让您的最终用户尽情享受云游戏了。
-   
+如果你的设置全部正确，您就可以在浏览器上看到上面的界面，可以享受一下即点即玩的云游戏服务了。接下来要做的，就是将SDK集成到您自己的应用中去，让您的最终用户尽情享受云游戏带来的乐趣了。 
