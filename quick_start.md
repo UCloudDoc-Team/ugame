@@ -12,9 +12,13 @@
 ### 创建Servless服务
 1. 申请相应的cube，填入以下信息
 CPU 选择0.5 core/内存选择2G 
-在镜象里选择 Cube-lab cloudgame-dem
 
 ![创建Cube](images/quickstart_create_cube.png)
+
+在镜象里选择 Cube-lab cloudgame-image 版本 0.2.8
+
+![选择镜象](images/quickstart_cube_image.png)
+
 
 高级设置里传入相应的环境变量
 
