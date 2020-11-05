@@ -60,6 +60,3 @@ PC、手机、电视盒子、智能大屏等终端无缝适配，无需下载等
 
 - [创建云游戏DEMO CUBE](/ucgs/quick_start#创建Servless服务)
 - [访问您的云游戏](/ucgs/quick_start#通过WEB访问DEMO页面)
-
-
-
