@@ -51,7 +51,7 @@ PC、手机、电视盒子、智能大屏等终端无缝适配，无需下载等
   * [X86游戏篇](/ucgs/user_guide#X86游戏上线)
   * [ARM手游篇](/ucgs/user_guide#ARM游戏上线)
   * [SDK获取](/ucgs/user_guide#SDK获取)
-  *
+  
 <!--
 ## 4.云游戏WEB演示程序快速上手指南
 
