@@ -11,8 +11,6 @@
   * [ARM手游篇](/ucgs/user_guide#ARM游戏上线)
   * [SDK获取](/ucgs/user_guide#SDK获取)
  
-
-
 * 计费
    * [计费模式](/ucgs/price#计费模式)
    * [定价表](/ucgs/price#定价表)
