@@ -11,11 +11,7 @@
   * [ARM手游篇](/ucgs/user_guide#ARM游戏上线)
   * [SDK获取](/ucgs/user_guide#SDK获取)
  
- <!--  
-* 快速上手指南
-   * [创建WEB服务](/ucgs/quick_start#创建Servless服务)
-   * [使用WEB云游戏](/ucgs/quick_start#通过WEB访问DEMO页面)
--->
+
 
 * 计费
    * [计费模式](/ucgs/price#计费模式)
@@ -23,3 +19,10 @@
    * [退款](/ucgs/price#退款)
 
 * [词汇表](/ucgs/_glossary.md)
+
+
+ <!--  
+* 快速上手指南
+   * [创建WEB服务](/ucgs/quick_start#创建Servless服务)
+   * [使用WEB云游戏](/ucgs/quick_start#通过WEB访问DEMO页面)
+-->
