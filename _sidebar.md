@@ -8,8 +8,7 @@
 
 * 云游戏相关流程
   * [云手游2C场景上线流程](/ucgs/user_guide#云手游2C场景上线流程)
-  * [云手游微端](/ucgs/user_guide#云手游微端)
-  * [H5链接推广流程](/ucgs/user_guide#H5链接推广流程)
+  * [云手游微端/H5链接推广流程](/ucgs/user_guide#云手游微端/H5链接推广流程)
   
 * 计费
    * [计费模式](/ucgs/price#计费模式)
