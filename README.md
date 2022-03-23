@@ -45,7 +45,7 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 	
 
 * [计费模式](/ucgs/price#计费模式)
-* [服务器配置](/ucgs/price#AMR服务器配置)
+* [ARM服务器配置](/ucgs/price#AMR服务器配置)
 * [退款](/ucgs/price#退款)
 
 
@@ -55,8 +55,8 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 传统游戏经过游戏上传、实例创建、SDK开发与上线三步即可轻松接入UCloud云游戏平台，无需对原有的代码做任何的改动即可轻松跨端使用。
 
 
-  * [云手游2C场景上线流程](/ucgs/user_guide#X86云手游2C场景上线流程)
-  * [云手游微端/H5链接推广流程](/ucgs/user_guide#ARM云手游微端/H5链接推广流程)
+  * [云手游2C场景上线流程](/ucgs/user_guide#云手游2C场景上线流程)
+  * [云手游微端/H5链接推广流程](/ucgs/user_guide#云手游微端/H5链接推广流程)
  
   
 <!--
