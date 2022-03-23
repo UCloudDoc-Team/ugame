@@ -7,13 +7,13 @@
    * [应用场景](/ucgs/README#应用场景)
 
 * 使用云游戏
-  * [云手游2C场景上线流程](/ucgs/user_guide#X86云手游2C场景上线流程)
+  * [云手游2C场景上线流程](/ucgs/user_guide#云手游2C场景上线流程)
   * [云手游微端/H5链接推广流程](/ucgs/user_guide#云手游微端/H5链接推广流程)
  
  
 * 计费
    * [计费模式](/ucgs/price#计费模式)
-   * [服务器配置](/ucgs/price#ARM服务器配置)
+   * [ARM服务器配置](/ucgs/price#ARM服务器配置)
    * [退款](/ucgs/price#退款)
 
 * [词汇表](/ucgs/_glossary.md)
