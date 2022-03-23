@@ -7,9 +7,9 @@
    * [应用场景](/ucgs/README#应用场景)
 
 * 使用云游戏
-  * [X86游戏篇](/ucgs/user_guide#X86游戏上线)
-  * [ARM手游篇](/ucgs/user_guide#ARM游戏上线)
-  * [SDK获取](/ucgs/user_guide#SDK获取)
+  * [云手游2C场景上线流程](/ucgs/user_guide#X86云手游2C场景上线流程)
+  * [云手游微端/H5链接推广流程](/ucgs/user_guide#云手游微端/H5链接推广流程)
+ 
  
 * 计费
    * [计费模式](/ucgs/price#计费模式)
