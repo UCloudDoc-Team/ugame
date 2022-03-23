@@ -13,7 +13,7 @@
 * 计费
    * [计费模式](/ucgs/price#计费模式)
    * [ARM服务器配置](/ucgs/price#ARM服务器配置)
-   * [退款](/ucgs/price#退款)
+   * [资源删除](/ucgs/price#资源删除)
 
 * [词汇表](/ucgs/_glossary.md)
 
