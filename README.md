@@ -36,7 +36,7 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 试玩广告：可将试玩链接嵌入到第三方APP中，将“下载”替换成“试玩”，实现秒级呈现。
 微端投放：投放5MB游戏微端下载，也可极大降低下载门槛，进一步引导下载完整客户端，实现游戏获客。
 短信推广：短信发送URL，玩家点击URL在微信小程序内可玩游戏，可实现快速传播；也可实现多人同屏。
-### [词汇表](/ucgs/_glossary.md)
+### [词汇表](/UGame/_glossary.md)
 
 
 
@@ -44,9 +44,9 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 
 	
 
-* [计费模式](/ucgs/price#计费模式)
-* [ARM服务器配置](/ucgs/price#AMR服务器配置)
-* [退款](/ucgs/price#退款)
+* [计费模式](/UGame/price#计费模式)
+* [ARM服务器配置](/UGame/price#AMR服务器配置)
+* [退款](/UGame/price#退款)
 
 
 
@@ -55,8 +55,8 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 传统游戏经过游戏上传、实例创建、SDK开发与上线三步即可轻松接入UCloud云游戏平台，无需对原有的代码做任何的改动即可轻松跨端使用。
 
 
-  * [云手游2C场景上线流程](/ucgs/user_guide#云手游2C场景上线流程)
-  * [云手游微端/H5链接推广流程](/ucgs/user_guide#云手游微端/H5链接推广流程)
+  * [云手游2C场景上线流程](/UGame/user_guide#云手游2C场景上线流程)
+  * [云手游微端/H5链接推广流程](/UGame/user_guide#云手游微端/H5链接推广流程)
  
   
 <!--
@@ -67,6 +67,6 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 请注意，在未获得游戏版权方授权的情况下，测试游戏不可进行商业运营。 
 
 
-- [创建云游戏DEMO CUBE](/ucgs/quick_start#创建Servless服务)
-- [访问您的云游戏](/ucgs/quick_start#通过WEB访问DEMO页面)
+- [创建云游戏DEMO CUBE](/UGame/quick_start#创建Servless服务)
+- [访问您的云游戏](/UGame/quick_start#通过WEB访问DEMO页面)
 -->
