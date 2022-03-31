@@ -43,7 +43,7 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 ## 2.购买及付费
 
 * [计费模式](/ucgs/price#计费模式)
-* [ARM服务器配置](/ucgs/price#AMR服务器配置)
+* [ARM服务器配置](/ucgs/price#AR服务器配置)
 * [资源删除](/ucgs/price#资源删除)
 
 
