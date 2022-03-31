@@ -14,9 +14,5 @@
    * [计费模式](/ucgs/price#计费模式)
    * [ARM服务器配置](/ucgs/price#ARM服务器配置)
    * [资源删除](/ucgs/price#资源删除)
-
-* 快速上手指南
-   * [创建WEB服务](/ucgs/guide#创建Servless服务)
-   * [使用WEB云游戏](/ucgs/guide#通过WEB访问DEMO页面)
    
 * [词汇表](/ucgs/_glossary.md)
