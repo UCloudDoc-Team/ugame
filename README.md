@@ -1,4 +1,4 @@
-## [概览](/ucgs/README.md)
+## 概览
 ### 产品介绍
    * [什么是云游戏](/ucgs/_whatgame.md)
    * [功能与优势](/ucgs/_function.md)
