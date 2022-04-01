@@ -1,8 +1,8 @@
 # 计费
 
 ## 计费模式
-包括服务器整机计费和带宽95峰值计费；服务器费用详见控制台。
-![img](images/price-game.png)
+费用包括：服务器整机、带宽95峰值计费，详见[控制台](https://console.ucloud.cn/ugame/server/create)
+付费方式：支持按月或按年付费（买10个月送2个月）
 
 ## ARM服务器配置
 |配置项        |详情           |
