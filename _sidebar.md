@@ -9,7 +9,7 @@
    * [ARM服务器配置](/ucgs/price.md#ARM服务器配置)
    * [资源删除](/ucgs/price.md#资源删除)
    
- * 云游戏上线流程
+* 云游戏上线流程
    * [云手游2C场景](/ucgs/online.md#云手游2C场景)
 
 *  快速上手指南
