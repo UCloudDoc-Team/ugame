@@ -14,4 +14,7 @@
 
 *  快速上手指南
   * [注册控制台账号](/ucgs/user_flow.md#注册控制台账号)
+  * [服务器管理](/ucgs/user_flow.md#服务器管理)
+  * [游戏适配](/ucgs/user_flow.md#游戏适配)
+  * [调度管理](/ucgs/user_flow.md#调度管理)
   
