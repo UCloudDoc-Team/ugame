@@ -8,6 +8,9 @@
    * [计费模式](/ucgs/price.md#计费模式)
    * [ARM服务器配置](/ucgs/price.md#ARM服务器配置)
    * [资源删除](/ucgs/price.md#资源删除)
+ 
+ * 云游戏上线流程
+ * [2C场景上线](/ucgs/user_flow.md#2C场景上线)
 
 * 快速上手指南
   * [注册控制台账号](/ucgs/user_flow.md#注册控制台账号)
