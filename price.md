@@ -1,5 +1,5 @@
 # 计费模式
-费用包括服务器费用和带宽费用，带宽按照每月末实际使用的95峰值结算计费，详见[控制台](https://console.ucloud.cn/ugame/server/create)
+费用包括服务器费用和带宽费用，带宽按照每月末实际使用的95峰值结算计费，详见[控制台](https://console.ucloud.cn/ugame/server)
 
 付费方式支持按月或按年付费，按年付费享受买10月送2月优惠
 
