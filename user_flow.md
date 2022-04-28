@@ -1,5 +1,6 @@
 ## 操作指南
-### 注册控制台账号
+### 注册控制台账号  
+* [立即入手](https://console.ucloud.cn/uphone/server)
  ![img](images/signin1.png)
  
 ### 服务器管理
