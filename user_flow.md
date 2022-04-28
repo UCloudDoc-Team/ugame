@@ -1,5 +1,5 @@
 ## 操作指南
-### [注册控制台账号](https://console.ucloud.cn/uphone/server)
+### [注册控制台账号](https://console.ucloud.cn/ugame/server)
  ![img](images/signin1.png)
  
 ### 服务器管理
