@@ -2,7 +2,7 @@
 
 ### 快速体验
 您可扫描二维码下载体验客户端，测试UCloud云游戏延迟、画质、卡顿率和帧率。
-
+![img](images/TYB.png)
 
 ### 完整接入流程
 1. 购买测试服务器：测试期间为节省成本可先购买[云手机服务器](https://console.ucloud.cn/uphone/server)，地域选择乌兰察布或上海
